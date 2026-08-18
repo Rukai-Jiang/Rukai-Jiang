@@ -6,6 +6,7 @@ I build technology-enabled products at the intersection of software, business, a
 
 ## Featured Engineering Projects
 
+- **[Mini Search Engine](https://github.com/Rukai-Jiang/mini-search-engine)** — A BM25 search engine with a thread-safe index, JSON persistence, concurrent HTTP API, and integration tests.
 - **[Python Async Job Queue](https://github.com/Rukai-Jiang/python-async-job-queue)** — Bounded asynchronous workers, retries, job lifecycle management, and metrics.
 - **[C++ Concurrent LRU Cache](https://github.com/Rukai-Jiang/cpp-concurrent-lru-cache)** — A thread-safe C++20 cache with O(1) access, TTL expiration, and concurrency tests.
 - **[Streaming Anomaly Detector](https://github.com/Rukai-Jiang/streaming-anomaly-detector)** — An O(1), fixed-memory detector for live metric streams with a reusable Python API and CLI.
